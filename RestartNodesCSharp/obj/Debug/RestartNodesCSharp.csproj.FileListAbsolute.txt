@@ -1,0 +1,7 @@
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\bin\Debug\RestartNodesCSharp.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\bin\Debug\RestartNodesCSharp.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\bin\Debug\RestartNodesCSharp.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\bin\Debug\MySql.Data.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\obj\Debug\RestartNodesCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\obj\Debug\RestartNodesCSharp.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\Remote Node Restart\RestartNodesCSharp\obj\Debug\RestartNodesCSharp.pdb
